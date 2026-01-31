@@ -49,7 +49,8 @@ SRC = 	ft_atoi.c \
 		ft_striteri.c \
 		ft_strmapi.c \
 		ft_split.c \
-		ft_atol.c
+		ft_atol.c \
+		ft_is_number.c
 
 OBJ = $(SRC:.c=.o)
 
